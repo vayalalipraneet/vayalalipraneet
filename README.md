@@ -1,5 +1,5 @@
-### Hi there, I'm Praneet [website] 👋
-
+### Hi there, I'm Praneet 👋
+<!--[website]--> 
 
 ## I'm a Doctoral Student at the Center for Mobility with Vertical Lift!
 
