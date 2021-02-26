@@ -27,3 +27,4 @@ I am a doctoral candidate with a passion for VTOL technologies pursuing research
 [twitter]: https://twitter.com/p_vayalali
 [instagram]: https://instagram.com/praneet.vayalali
 
+![](https://visitor-badge.glitch.me/badge?page_id=vayalalipraneet.vayalalipraneet)
