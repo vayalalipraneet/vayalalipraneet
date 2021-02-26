@@ -19,3 +19,7 @@
 [<img align="left" alt="praneet.vayalali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ---
+[website]: https://vayalalipraneet.github.io/mywebsite/
+[twitter]: https://twitter.com/p_vayalali
+[instagram]: https://instagram.com/praneet.vayalali
+[linkedin]: https://linkedin.com/in/praneetvayalali
