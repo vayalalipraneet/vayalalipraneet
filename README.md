@@ -1,9 +1,12 @@
 ### Hi there, I'm Praneet 👋
 <!--[website]--> 
 
-## I'm a Doctoral Student at the Center for Mobility with Vertical Lift!
+## Currently a Graduate Research Assistant at the Center for Mobility with Vertical Lift, Rensselaer Polytechnic Institute, New York!
 
-- 🌱 I’m currently working on fault-tolerant control of rotorcraft 🚁
+- 🌱 My area of expertise is rotorcraft 🚁 flight dynamics and control
+
+I am a doctoral candidate with a passion for VTOL technologies pursuing research in the field of flight dynamics and control with focus on fault tolerant control on VTOL aircraft. Current work focuses on utilizing redundant control effectors for damage tolerance on VTOL aircraft by applying modern control design techniques.
+
 - ⚡ Fun fact: I love to take photographs and currently I am dabbling with aerial photography
 
 ### Spotify Playing 🎧
