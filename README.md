@@ -1,6 +1,5 @@
 ### Hi there, I'm Praneet [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vayalalipraneet.github.io/mywebsite/)
 
 ## I'm a Doctoral Student at the Center for Mobility with Vertical Lift!
 
