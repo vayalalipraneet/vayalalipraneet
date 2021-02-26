@@ -3,7 +3,7 @@
 
 ## I'm a Doctoral Student at the Center for Mobility with Vertical Lift!
 
-- 🌱 I’m currently working on fault-tolerant control of rotorcraft
+- 🌱 I’m currently working on fault-tolerant control of rotorcraft 🚁
 - ⚡ Fun fact: I love to take photographs and currently I am dabbling with aerial photography
 
 ### Spotify Playing 🎧
