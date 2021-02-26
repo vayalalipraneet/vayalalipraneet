@@ -4,7 +4,7 @@
 ## I'm a Doctoral Student at the Center for Mobility with Vertical Lift!
 
 - 🌱 I’m currently working on fault-tolerant control of rotorcraft
-- ⚡ Fun fact: I love take photographs and currently dabbling with aerial photography
+- ⚡ Fun fact: I love to take photographs and currently I am dabbling with aerial photography
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-git-master-vayalalipraneet.vercel.app/api/spotify)](https://open.spotify.com/user/praneetvayalali)
@@ -12,12 +12,15 @@
 ### Connect with me:
 
 [<img align="left" alt="https://vayalalipraneet.github.io/mywebsite/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="p_vayalali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="p_vayalali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][googlescholar]
 [<img align="left" alt="praneetvayalali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="p_vayalali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="praneet.vayalali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ---
 [website]: https://vayalalipraneet.github.io/mywebsite/
+[googlescholar]: https://scholar.google.com/citations?user=oqfmzbAAAAAJ&hl=en&inst=5831747260623323207
+[linkedin]: https://linkedin.com/in/praneetvayalali
 [twitter]: https://twitter.com/p_vayalali
 [instagram]: https://instagram.com/praneet.vayalali
-[linkedin]: https://linkedin.com/in/praneetvayalali
+
