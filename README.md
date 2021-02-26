@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently working on fault-tolerant control of rotorcraft 🚁
 - ⚡ Fun fact: I love to take photographs and currently I am dabbling with aerial photography
-
+<br />
+---
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-git-master-vayalalipraneet.vercel.app/api/spotify)](https://open.spotify.com/user/praneetvayalali)
 
