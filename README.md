@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love take photographs and currently dabbling with aerial photography
 
 ### Spotify Playing 🎧
-
-[<img src="https://novatorem-git-master-vayalalipraneet.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/praneetvayalali)
+[![Spotify](https://novatorem-git-master-vayalalipraneet.vercel.app/api/spotify)](https://open.spotify.com/user/praneetvayalali)
+<!--[<img src="https://novatorem-git-master-vayalalipraneet.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/praneetvayalali)--> 
 
 ### Connect with me:
 
