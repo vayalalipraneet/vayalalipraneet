@@ -1,4 +1,4 @@
-### Hi there, I'm Praneet 👋
+### Hi there, I'm Praneet <img src="https://raw.githubusercontent.com/vayalalipraneet/vayalalipraneet/main/wave.gif" width="30px">
 <!--[website]--> 
 
 ## I'm a Doctoral Student at the Center for Mobility with Vertical Lift!
