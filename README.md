@@ -28,4 +28,4 @@ I am a doctoral candidate with a passion for VTOL technologies pursuing research
 [instagram]: https://instagram.com/praneet.vayalali
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vayalalipraneet.vayalalipraneet)
-![Profile last updated](https://img.shields.io/github/last-commit/vayalalipraneet/vayalalipraneet/master?label=Last%20updated&style=flat)
+![Profile last updated](https://img.shields.io/github/last-commit/vayalalipraneet/vayalalipraneet/main?label=Last%20updated&style=flat)
