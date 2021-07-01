@@ -6,7 +6,7 @@
 I am a doctoral candidate with a passion for VTOL technologies pursuing research in the field of flight dynamics and control with focus on fault tolerant control on VTOL aircraft. Current work focuses on utilizing redundant control effectors for damage tolerance on VTOL aircraft by applying modern control design techniques.
 
 - 🌱 My area of expertise is Rotorcraft 🚁 flight dynamics and control
-- 🌐 Visit my [portfolio website](https://vayalalipraneet.github.io/mywebsite/) to find out more on the exciting things I am working on.
+- 🌐 Visit my [portfolio website](https://vayalalipraneet.github.io) to find out more on the exciting things I am working on.
 - ⚡ Fun fact: I love to take photographs and currently I am dabbling with aerial photography
 
 ### Spotify Playing 🎧
