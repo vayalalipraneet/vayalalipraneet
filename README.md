@@ -21,7 +21,7 @@ I am a doctoral candidate with a passion for VTOL technologies pursuing research
 [<img align="left" alt="praneet.vayalali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ---
-[website]: https://vayalalipraneet.github.io/mywebsite/
+[website]: https://vayalalipraneet.github.io
 [googlescholar]: https://scholar.google.com/citations?user=oqfmzbAAAAAJ&hl=en&inst=5831747260623323207
 [linkedin]: https://linkedin.com/in/praneetvayalali
 [twitter]: https://twitter.com/p_vayalali
