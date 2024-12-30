@@ -1,16 +1,13 @@
 ### Hi there, I'm Praneet <img src="https://raw.githubusercontent.com/vayalalipraneet/vayalalipraneet/main/wave.gif" width="30px">
 <!--[website]--> 
 
-## Currently a Graduate Research Assistant at the Center for Mobility with Vertical Lift, Rensselaer Polytechnic Institute, New York!
+## Currently a Flight Simulation Engineer at Volocopter GmbH!
 
-I am a doctoral candidate with a passion for VTOL technologies pursuing research in the field of flight dynamics and control with focus on fault tolerant control on VTOL aircraft. Current work focuses on utilizing redundant control effectors for damage tolerance on VTOL aircraft by applying modern control design techniques.
+I am an aerospace engineer with a passion for aviation pursuing advancements in the field of flight dynamics and control on VTOL aircraft. Current work focuses on development of VoloCity Flight Simulator in order to ensure its functional scope for type certification of the VoloCity aircraft.
 
 - 🌱 My area of expertise is Rotorcraft 🚁 flight dynamics and control
 - 🌐 Visit my [portfolio website](https://vayalalipraneet.github.io) to find out more on the exciting things I am working on.
 - ⚡ Fun fact: I love to take photographs and currently I am dabbling with aerial photography
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-git-master-vayalalipraneet.vercel.app/api/spotify)](https://open.spotify.com/user/praneetvayalali)
 
 ### Connect with me:
 
