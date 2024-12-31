@@ -5,7 +5,7 @@
 
 I am an aerospace engineer with a passion for aviation pursuing advancements in the field of flight dynamics and control on VTOL aircraft. Current work focuses on development of VoloCity Flight Simulator in order to ensure its functional scope for type certification of the VoloCity aircraft.
 
-- 🌱 My area of expertise is Rotorcraft 🚁 flight dynamics and control
+- 🌱 My area of expertise is Flight Dynamics and Control | Modeling & Simulation | Handling Qualities | Flight Mechanics | Aeroelasticity
 - 🌐 Visit my [portfolio website](https://vayalalipraneet.github.io) to find out more on the exciting things I am working on.
 - ⚡ Fun fact: I love to take photographs and currently I am dabbling with aerial photography
 
